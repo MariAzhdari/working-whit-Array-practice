@@ -40,5 +40,15 @@
 // console.log("mohi".at(2));
 
 //for of loop and forEch method
+const body =document.querySelector("body")
 const numbers =[200,156,90,-87,-543,44]
-console.log(numbers);
+// console.log(numbers);
+for(const num of numbers){
+    if(num > 0){
+        
+        console.log(`your number is ${num}`);
+       
+    }else{
+     console.log(`this is ${Math.abs(num)}`);
+    }
+}
