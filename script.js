@@ -41,17 +41,17 @@
 
 //for of loop and forEch method
 
-// const numbers =[200,156,90,-87,-543,44]
-// for(const[ i, num ] of numbers.entries()){
-//     if(num > 0){
+const numbers =[200,156,90,-87,-543,44]
+for(const[ i, num ] of numbers.entries()){
+    if(num > 0){
         
-//         console.log(` ${i+1} your number is ${num}`);
+        console.log(` ${i+1} your number is ${num}`);
        
-//     }else{
-//      console.log(`${i+1} this is ${Math.abs(num)}`);
-//     }
-// }
-//________________________________________
+    }else{
+     console.log(`${i+1} this is ${Math.abs(num)}`);
+    }
+}
+________________________________________
 
 // numbers.forEach((e,i,arr)=>{
 //      if(e> 0){
