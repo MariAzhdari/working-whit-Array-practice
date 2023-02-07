@@ -37,4 +37,8 @@
 // console.log(arr1.at(2));
 // let str ='mohijon';
 // console.log(str.at(3));
-console.log("mohi".at(2));
+// console.log("mohi".at(2));
+
+//for of loop and forEch method
+const numbers =[200,156,90,-87,-543,44]
+console.log(numbers);
