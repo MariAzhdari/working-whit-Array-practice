@@ -31,3 +31,9 @@
 // let arr =['d','l','i','p','m'];
 // let letter =arr1.concat(arr)
 // console.log(letter.join(' * '));
+
+// at methods
+// let arr1 =['a','b','c','d','e'];
+// console.log(arr1.at(2));
+// let str ='mohijon';
+// console.log(str.at(3));
