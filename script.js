@@ -19,4 +19,15 @@
 // let arr1 =['a','b','c','d','e'];
 // console.log(arr1.reverse());
 
+//concat
+// let arr1 =['a','b','c','d','e'];
+// let arr =['d','l','i','p','m'];
+// let letter =arr1.concat(arr)
+// console.log(letter);
+// console.log([...arr,...arr1]);
 
+//join
+// let arr1 =['a','b','c','d','e'];
+// let arr =['d','l','i','p','m'];
+// let letter =arr1.concat(arr)
+// console.log(letter.join(' * '));
