@@ -37,3 +37,4 @@
 // console.log(arr1.at(2));
 // let str ='mohijon';
 // console.log(str.at(3));
+console.log("mohi".at(2));
