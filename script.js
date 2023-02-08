@@ -75,6 +75,6 @@ console.log(`${key}:${value}`);
 })
 
 // Set
-const currenciesUnique = new Set(['USD', 'GBP', 'USD', 'EUR', 'EUR']);
-currenciesUnique.forEach(function(value,_,_){
-    console.log(`${value}:${value}`)})
+// const currenciesUnique = new Set(['USD', 'GBP', 'USD', 'EUR', 'EUR']);
+// currenciesUnique.forEach(function(value,_,_){
+//     console.log(`${value}:${value}`)})
